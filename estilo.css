@@ -1,0 +1,19 @@
+/*seletores*/
+
+
+
+body{
+  font-family: arial;
+  text-align: center;
+}
+h1{
+/*declaração*/
+/*propriedade*/ /*valor*/
+  font-family:   arial;
+  font-size: 24px;
+  color:blue;
+}
+img{
+  height: 300px;
+  width: 500px;
+}

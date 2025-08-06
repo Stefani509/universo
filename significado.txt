@@ -1,0 +1,9 @@
+HTML E CSS
+
+HT -> HYPERTEXT hipertexto
+M -> MARKUP marcação
+L -> language linguagem
+
+C -> CASCADING cascata
+S -> STYLE estilos
+S -> SHEETS documentos
